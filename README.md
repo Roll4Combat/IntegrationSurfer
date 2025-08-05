@@ -1,6 +1,6 @@
-============================================================================
+
  INTEGRATION SURFER v1.0 - WebMethods Integration Server Reconnaissance Tool
- ============================================================================
+
 
  Usage: ./Integration_Surfer.sh <ips_file> <output_file> [options]
 
