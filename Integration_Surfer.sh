@@ -58,9 +58,6 @@
 #   - successful_credentials.txt: Found valid credentials
 #   - <output_file>: Detailed scan results and logs
 #
-# EXAMPLE USAGE:
-#   ./Integration_Surfer.sh integration_ips.txt results.txt
-#   ./Integration_Surfer.sh integration_ips.txt results.txt -p 8443 --protocol https
 #
 
 # Check that at least 2 arguments are provided.
