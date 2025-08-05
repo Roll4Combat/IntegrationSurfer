@@ -289,7 +289,7 @@ fi
 FUZZ_PLACEHOLDER="FUZZ"
 
 # Discord webhook URL.
-DISCORD_WEBHOOK="https://discordapp.com/api/webhooks/1349058968487723100/9z8s8FaU5MxaOz2UiZKFx9q532RBiS5ch_D-gBDIO-P2KanGF1hZKYQ0Cq7Ix6bl0BZl"
+DISCORD_WEBHOOK=""
 
 # Function to post a message to Discord.
 post_to_discord() {
