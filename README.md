@@ -58,5 +58,4 @@
 #
 # EXAMPLE USAGE:
 #   ./Integration_Surfer.sh integration_ips.txt results.txt
-#   ./Integration_Surfer.sh integration_ips.txt results.txt -p 8443 --protocol https
 #
