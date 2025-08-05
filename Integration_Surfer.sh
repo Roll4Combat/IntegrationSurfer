@@ -10,9 +10,7 @@
 #   <output_file>   : File to which recon output is appended
 #
 # OPTIONAL ARGUMENTS:
-#   -f, --fast          Use fast integration server detection method
 #   -p, --port PORT     Port to use (default: 443)
-#   --protocol PROTO    Protocol to use (default: https)
 #
 # INTERACTIVE MENU OPTIONS:
 #   After providing required arguments, the script presents an interactive menu:
